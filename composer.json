@@ -1,0 +1,15 @@
+{
+    "name": "ogd00m/pop-it-mvc",
+    "type": "project",
+    "require": {
+        "php": "^7.4 | ^8.0"
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Src\\": "core/Src/",
+            "": "app/"
+        }
+    }
+
+}
